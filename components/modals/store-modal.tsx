@@ -80,7 +80,6 @@ export const StoreModal = () => {
           </div>
         </div>
       </div>
-      Future Create Store Form
     </Modal>
   );
 };
